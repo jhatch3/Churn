@@ -24,6 +24,7 @@ This repo holds my final project for CS 472/572 for the Spring 2025 term, where 
 13) Figs/activiations.png
 14) Figs/F1_score.png
 15) Figs/F1_boxplot.png
-16) README.md
+16) Figs/Features_Boxplot.png
+17) README.md
   This file.
 
