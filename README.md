@@ -1,4 +1,4 @@
-This repo holds my final project for CS 472/572 for the Spring 2025 term, where I evaluate different models at predicting churn. The repo contains 16 files including this READ ME.
+This repo holds my final project for CS 472/572 for the Spring 2025 term, where I evaluate different models at predicting churn. The repo contains 22 files including this READ ME.
 
 1) Machine Learning Report - CS472 - Justin - Hatch - S25 - F.pdf
 
@@ -13,18 +13,38 @@ This repo holds my final project for CS 472/572 for the Spring 2025 term, where 
   This is where the decision tree model was implemented and tuned. The F1 score was also included with some graphs.
 
 4) knn.ipynb
-5) svm.ipynb
-6) multi_layer_perceptron.ipynb
-7) helper.ipynb
-8) Data/data.csv
-9) Figs/decision_tree_acc.png
-10) Figs/knn.png
-11) Figs/mlp_acc.png
-12) Figs/mlp_loss.png
-13) Figs/activiations.png
-14) Figs/F1_score.png
-15) Figs/F1_boxplot.png
-16) Figs/Features_Boxplot.png
-17) README.md
+
+  This is where the knn model was implemented and tuned. The F1 score was also included with some graphs.
+
+6) svm.ipynb
+
+  This is where the svm model was implemented and tuned. The F1 score was also included with some graphs.
+   
+8) multi_layer_perceptron.ipynb
+
+  This is where the MLP model was implemented and tuned. The F1 score was also included with some graphs.
+
+10) helper.ipynb
+
+  This is where the activiation function graph was made as well as fig 12.
+  
+12) Data
+    
+  Raw data and clean data
+
+
+
+FIGS 
+
+  14) Figs/decision_tree_acc.png
+  15) Figs/knn.png
+  16) Figs/mlp_acc.png
+  17) Figs/mlp_loss.png
+  18) Figs/activiations.png
+  19) Figs/F1_score.png
+  20) Figs/F1_boxplot.png
+  21) Figs/Features_Boxplot.png
+    
+23) README.md
   This file.
 
