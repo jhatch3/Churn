@@ -33,17 +33,14 @@ This repo holds my final project for CS 472/572 for the Spring 2025 term, where 
   Raw data and clean data
 
 
-
-FIGS 
-
-  14) Figs/decision_tree_acc.png
-  15) Figs/knn.png
-  16) Figs/mlp_acc.png
-  17) Figs/mlp_loss.png
-  18) Figs/activiations.png
-  19) Figs/F1_score.png
-  20) Figs/F1_boxplot.png
-  21) Figs/Features_Boxplot.png
+14) Figs/decision_tree_acc.png
+15) Figs/knn.png
+16) Figs/mlp_acc.png
+17) Figs/mlp_loss.png
+18) Figs/activiations.png
+19) Figs/F1_score.png
+20) Figs/F1_boxplot.png
+21) Figs/Features_Boxplot.png
 
 22) README.md
   This file.
