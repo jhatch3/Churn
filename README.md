@@ -16,7 +16,7 @@ This repository contains my final project for **CS 472/572** (Spring 2025), wher
 ## 📄 Project Report
 The full report detailing the background, experiments, and results of this project can be found in the following PDF:
 
-- **[Machine Learning Report - CS472 - Justin Hatch - S25.pdf](./Machine%20Learning%20Report%20-%20CS472%20-%20Justin%20-%20Hatch%20-%20S25%20-%20F.pdf)**
+- **[Machine Learning Report - CS472 - Justin Hatch - S25.pdf]([./Machine%20Learning%20Report%20-%20CS472%20-%20Justin%20-%20Hatch%20-%20S25%20-%20F.pdf](https://github.com/jhatch3/ML-Churn_Report/blob/main/Machine%20Learning%20Report%20-%20CS472%20-%20%20Justin%20-%20Hatch%20-%20S25%20-%20F.pdf))**
 
 ---
 
