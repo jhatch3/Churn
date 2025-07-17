@@ -3,10 +3,10 @@
 This repository contains my final project for **CS 472/572** (Spring 2025), where I evaluate different machine learning models for predicting churn. The project includes various models like **Decision Tree**, **K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, and **Multi-Layer Perceptron (MLP)**, all tuned and evaluated for F1 score.
 
 ## 📝 Table of Contents
-- [📄 Project Report](#project report)
-- [📂 Files Overview](#files overview)
+- [📄 Project Report](#project-report)
+- [📂 Files Overview](#files-overview)
 - [🛠️ Preprocessing](#preprocessing)
-- [⚡ Model Implementations](#model implementations)
+- [⚡ Model Implementations](#model-implementations)
 - [📊 Evaluation](#evaluation)
 - [📈 Figures](#figures)
 - [🤝 License](#license)
