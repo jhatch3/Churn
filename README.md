@@ -9,7 +9,6 @@ This repository contains my final project for **CS 472/572** (Spring 2025), wher
 - [⚡ Model Implementations](#model-implementations)
 - [📊 Evaluation](#evaluation)
 - [📈 Figures](#figures)
-- [🤝 License](#license)
 
 ---
 
